@@ -14,6 +14,7 @@ namespace GriseldaExample
             _name = name;
             haveBars = true;
             canSing = false;
+            //:]
         }
     }
 }
